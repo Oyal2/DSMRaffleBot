@@ -13,7 +13,7 @@ def cook(amt):
             'entry_1814423206': email,
             'entry_798857510': '',#Zip Code
             'entry_1299443671': '',#City
-            'cm-fo-palyh': 'Air Jordan 1', #<-- Shoe Model
+            'entry_1247748047': 'Air Jordan 1', #<-- Shoe Model
             'entry_287029075': '',#Phone Number
             'entry_199279768': 'Size US 11.5',#<-- SHOE SIZE
         }
